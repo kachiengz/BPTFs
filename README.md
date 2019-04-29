@@ -12,6 +12,14 @@ April27th, 2019
 
 In order to use BPTFs, ensure that the following R libraies/packages are installed on your computer:
 
-(1) BMS: install.packages("BMS") #uncomment this line (by removing "#") to install BMS 
+(1) BMS: This package can be installed in R either in the RStudio, or by typing and runinng the following line,
 
-(2) biomod2: install.packages("biomod2") #uncomment this line to isntall biomod2
+"install.packages("BMS")" 
+
+in the R commnand line 
+
+(2) biomod2: Installed in the RStudion, or by running this line
+
+"install.packages("biomod2")"  
+
+in the R commnand line 
